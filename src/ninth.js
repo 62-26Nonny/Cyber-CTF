@@ -14,8 +14,8 @@ export default function Ninth() {
     }
 
     const handleSubmit = () => {
-        if (answerState.answer === '!true end'){
-            localStorage.setItem('!true end', '120')
+        if (answerState.answer === 'true end'){
+            localStorage.setItem('true end', '120')
             navigate('/END')
         }
     }
