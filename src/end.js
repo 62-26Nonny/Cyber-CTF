@@ -18,7 +18,7 @@ export default function End() {
 
     return (
         <div>
-            <div>Th1s 1s the end, y0u can leave n0w.</div>
+            <div>Th1s 1s the end, you can 1eave n0w.</div>
             <div>Answer is KMUTTCTF{'{Bravo!!!}'}</div>
             <div>
                 <div>
