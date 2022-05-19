@@ -25,7 +25,7 @@ export default function Second() {
             <span>Tips: IO</span>
             <div>
                 <span className='off'></span>
-                <span className='on'>URL</span>
+                <span className='on'>You are police now</span>
                 <span className='on'></span>
                 <span className='off'></span>
                 <span className='off'></span>
