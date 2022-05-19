@@ -24,7 +24,7 @@ export default function Fourth() {
         <div>
             <span>Tips: IO, 15 = F</span>
 
-            <div>x = b: 1100010 & ??: 1100001 & s: 73 & ??: 65</div>
+            <div>x = b: 01100010 & ??: 01100001 & s: 73 & ??: 65</div>
             <div>password = x + "number"</div>
             <input name='answer' type="text" onChange={handleChange} />
             <button onClick={handleSubmit}>Submit</button>
