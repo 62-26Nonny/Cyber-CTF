@@ -24,7 +24,7 @@ export default function Ninth() {
         <div>
             <span>Tips: IO, 15 = F, ABC<span className='off'>, FGHJK -> MNOQR</span></span>
 
-            <div>!6c627961 1101011 1110101 1101100</div>
+            <div>!4D4B4E58 01011000 01000111 01010111</div>
             <input name='answer' type="text" onChange={handleChange} />
             <button onClick={handleSubmit}>Submit</button>
         </div>
