@@ -14,8 +14,8 @@ export default function Ninth() {
     }
 
     const handleSubmit = () => {
-        if (answerState.answer === 'true end'){
-            localStorage.setItem('true end', '120')
+        if (answerState.answer === 'TRUE END'){
+            localStorage.setItem('TRUE END', '120')
             navigate('/END')
         }
     }
@@ -24,7 +24,7 @@ export default function Ninth() {
         <div>
             <span>Tips: IO, 15 = F, ABC<span className='off'>, FGHJK -> MNOQR</span></span>
 
-            <div>!4D4B4E58 01011000 01000111 01010111</div>
+            <div>!58 4D 4B 4E 01010111 01011000 01000111</div>
             <input name='answer' type="text" onChange={handleChange} />
             <button onClick={handleSubmit}>Submit</button>
         </div>
