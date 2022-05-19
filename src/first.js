@@ -14,8 +14,8 @@ export default function First() {
     }
 
     const handleSubmit = () => {
-        if (answerState.answer === '10001101101001111001011100111110100'){
-            localStorage.setItem('10001101101001111001011100111110100', '79')
+        if (answerState.answer === '0100011001101001011100100111001101110100'){
+            localStorage.setItem('0100011001101001011100100111001101110100', '79')
             navigate('/on/off')
         }
     }
