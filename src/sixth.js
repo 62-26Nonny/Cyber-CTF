@@ -24,7 +24,7 @@ export default function Sixth() {
         <div>
             <span>Tips: IO, 15 = F<span className='off'>, FGHJK -> MNOQR</span></span>
 
-            <div>74686973 1101110 1100111 1111000 1101010 1101011 1111000</div>
+            <div>74686973207374616765 1101110 1100111 1111000 1101010 1101011 1111000</div>
             <input name='answer' type="text" onChange={handleChange} />
             <button onClick={handleSubmit}>Submit</button>
         </div>
